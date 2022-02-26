@@ -30,4 +30,4 @@ print(Bio.__version__)
 print(matplotlib.__version__)
 3.4.3
 # Explicacion de la data utilizada
-Se uso toda la data necesaria para la resolucion del examen, extrayendola de PubMed y NCBI
+Se uso toda la data necesaria para la resolucion del examen, extrayendola de PubMed (Ecuador genomics)y NCBI (Petromyzon marinus mitochondrion )
