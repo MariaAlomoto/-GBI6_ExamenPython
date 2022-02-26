@@ -26,6 +26,8 @@ print(pandas.__version__)
 * moudlo Bio:import Bio
 print(Bio.__version__)
 1.79
-
+* modulo matplotlib: matplotlib
+print(matplotlib.__version__)
+3.4.3
 # Explicacion de la data utilizada
 Se uso toda la data necesaria para la resolucion del examen, extrayendola de PubMed y NCBI
