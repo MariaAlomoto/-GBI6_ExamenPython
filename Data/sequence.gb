@@ -1,0 +1,556 @@
+LOCUS       EG023951                 515 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aab58h10.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG023951
+VERSION     EG023951.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 515)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 149
+            original value before phred recall for SR was 818
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccgggatg tcccaccaac cgtctattat tcgaaaaact caccctctcc tatcattagg
+       61 taacagtgta ttagtagacc tcccttctcc tgctaacatc tcggcctgat gaaattttgg
+      121 ctcattatta agtttatgct taattctaca aattattact ggacttattc ttgctataca
+      181 ctacaccggt aatactgaac tagccttctc ttcagttata cacatttgtc gtgacgttaa
+      241 taacggatga cttatactaa acctccatgc taatggcgcc tctatatttt ttatctgcat
+      301 ctacgctcat atcggaagag gaatttatta tggctcctat ttatataaag aaacatgaaa
+      361 cgtcagagtt attttatttg cactaactgc agctactgcc ttcgtaggta tatgtctctc
+      421 ccatggggac aaatatcctt ttggggggca atcgttatca caaatttaat ttcagccata
+      481 ccatatgtag gaaatgatat tgtagaatga ttatg
+//
+
+LOCUS       EG023972                 530 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aac35g02.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG023972
+VERSION     EG023972.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 530)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 149
+            original value before phred recall for SR was 785
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..530
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccggggat attttaagtt ttgtcactct cctccccctg aacctgaaac atttaacgaa
+       61 tgcccccgaa tgtgctaagt gaaccatagc actttattta ggctactcct cttactaccc
+      121 ctccccatat taaaccaaaa tgatactttc tactttgcct atgccattct gctctctgtt
+      181 cctcataaac gtgtatgagc tggagctgat ccagccgcta tcatactcct cctaattatc
+      241 ccatttactc acacctccaa acaacgcgga atacaatttc gcccactcgc ccaaattaca
+      301 ttttgaattt taattgccaa tctagcacta cttacatgac tagggggaga gcccgctgaa
+      361 tatccattta tcttaataac acaaattgca tcaacagtct acttcataat ttttattcta
+      421 gttttcccaa tttcacgata tttagaaaat aaaatactat taatatcaaa caatactggt
+      481 aaatttaatt gaaaattagt ttaccgacct tcacaggaag gggattttaa
+//
+
+LOCUS       EG024153                 451 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aac39a09.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG024153
+VERSION     EG024153.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 451)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 149
+            original value before phred recall for SR was 649
+            PolyA tail found inside read...SR being truncated to 602
+            Potential full insert read...vec-to-vec length: 590
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..451
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccgggtgc ctatgccatt ctacgctctg ttcctaataa acttggaggt gttgtagctt
+       61 tagcagcagc tatcataatc ctcctaatta tcccatttac tcacacctcc aaacaacgca
+      121 gaatacaatt tcgcccactc gcccaaatta cattttgaat tttaattgcc gatctagcac
+      181 tacttacatg actaggggga gagcccgctg aatatccatt tatcttaata acacaaattg
+      241 catcaacagt ctacttcata atttttattc tagttttccc aattttagga tatttagaaa
+      301 ataaaatact attaatatca aaaaatactg gtaaatttaa ttgaaaatta gtttacagac
+      361 cttcaaagga aggggattta aacccctata actagccccc aaagctagta tcttagtatt
+      421 aaattatcct ctgattttta aacgaaaaac a
+//
+
+LOCUS       EG024176                 408 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aac39e01.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG024176
+VERSION     EG024176.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 408)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 149
+            original value before phred recall for SR was 747
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..408
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccggggtt attctacggg gcattctatt cataatttcc cttttatccc caaatgcact
+       61 aggtgaacca cacaacttta tttatgctaa tcctcttatt acccctcccc atattaaacc
+      121 aaaatgatac tctctatttg cccatgccat tctacgctct gttcctgata aacttggagg
+      181 tgttgaagga atatcagcgt ctatcataat catgctaatt atcccattta ctcacacctc
+      241 caaacaacga ggactacaat ttcacccact cgcccaaatt atcttttgaa ttttaattgc
+      301 cgatctatca ctacttacat gactaggggg agagcccgct gaagatccat ttatcttaat
+      361 aactcaaatt gcatcaacag tctacttcat aagtagtatt caagatct
+//
+
+LOCUS       EG024600                 206 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aab68e08.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG024600
+VERSION     EG024600.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 206)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 148
+            original value before phred recall for SR was 397
+            PolyA tail found inside read...SR being truncated to 356
+            Potential full insert read...vec-to-vec length: 343
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..206
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccgggatc aacagtctac ttcataattt ttattctagt tttcccaatt ttaggatatt
+       61 tagaaaacaa aatactatta atatcaaaaa atactggtaa atttaattga aaattagttt
+      121 acagaccttc aaaggaaggg gatttaaacc cctataacta gcccccaaag ctagtatctt
+      181 agtattaaat tatcctctga ttttca
+//
+
+LOCUS       EG024825                 674 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aab64a01.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG024825
+VERSION     EG024825.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 674)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 150
+            original value before phred recall for SR was 817
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..674
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccgggcaa acaggatcta gtaaccctat aggaattaat tctaatttgg ataagattca
+       61 atttcacccg tatttttctt tcaaagatat tttaggtttt gttattctac tgggcattct
+      121 tttcataatt tcccttttag cccctaatgc actaggtgaa ccagacaact ttatttatgc
+      181 taatcctctt agtacccctc cccatattaa accagaatga tactttctat ttgcctatgc
+      241 cattctacgc tctgttccta ataaacttgg aggtgttgta gctttagcag cagctatcat
+      301 aatcctccta attatcccat ttactcacac ctccaaacaa cgcggaatac aatttcgccc
+      361 actcgcccaa attacatttt gaattttaat tgccgatcta gcactactta catgactagg
+      421 gggagagccc gctgaatatc catttatctt aataacacaa attgcatcaa cagtctactt
+      481 cataattttt attctagttt tcccaatttt aggatattta gaaaataaaa tactattaat
+      541 atcaaaaaat actggtaaat ttaattgaaa attagtttac agaccttcaa agggaggggg
+      601 atttaaaccc ctataactag ccccccaaag ctagtatctt agtattaatt tatcctctga
+      661 tttttaaact aaaa
+//
+
+LOCUS       EG024993                 201 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aab71a11.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG024993
+VERSION     EG024993.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 201)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 148
+            original value before phred recall for SR was 393
+            PolyA tail found inside read...SR being truncated to 352
+            Potential full insert read...vec-to-vec length: 273
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..201
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccgggcta cttcataatt tttattctag ttttcccaat tttaggatat ttagaaaata
+       61 aaatactatt aatatcaaaa aatactggta aatttaattg aaaattagtt tacagacctt
+      121 caaaggaagg gggtttaaac ccctataact agcccccaaa gctagtatct tagtattaaa
+      181 ttatcctctg atttttaacc a
+//
+
+LOCUS       EG025037                 418 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aab71h03.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG025037
+VERSION     EG025037.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 418)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 148
+            original value before phred recall for SR was 928
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccgggatc acaaatttaa tttcagccat accatatgta ggaaatgata ttgtagtatg
+       61 attatgggga ggccccccag aatcttacgc cactttaccc cgattctttg cctcccattt
+      121 tatcttacca ttcattttag cagctaccac aataattcac attatatttc ttcaccgaac
+      181 acgatctagt aaccctatca gcgaattaat tctaatttgg ataagattca atttcagccc
+      241 gtatttttct ttcaaagata ttttaggttt tgttattcta cagggcattc ttttcttaat
+      301 tcccctttta ccccctaatg cactaggtga accatacaac tttatttatg ctaatcctct
+      361 tactacccct ccccatatta aaccagaatg atactttcta tttgcctatg tcactcta
+//
+
+LOCUS       EG025300                 622 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aab76e10.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG025300
+VERSION     EG025300.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 622)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 148
+            original value before phred recall for SR was 787
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..622
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccggggta tttttctttc aaagatattt taggttttgt tattctactg ggcattcttt
+       61 tcataatttc ccttttagcc cctaatgcac taggtgaacc agacaacttt atttatgcta
+      121 atcctcttag tacccctccc catattaaac cagaatgata ctttctattt gcctatgcca
+      181 ttctacgctc tgttcctaat aaacttggag gtgttgtagc tttagcagca gctatcataa
+      241 tcctcctaat tatcccattt actcacacct ccaaacaacg cggaatacaa tttcgcccac
+      301 tcgcccaaat tacattttga attttaattg ccgatctagc actacttaca tgactagggg
+      361 gagagcccgc tgaatatcca tttatcttaa taacacaaat tgcatcaaca gtctacttca
+      421 taatttttat tctagttttc ccaattttag gatatttaga aaataaaata ctattaatat
+      481 caaaaaatac tggtaaattt aattgaaaat tagtttacag accttcaaag gaaggggatt
+      541 taaaccccta taactagccc ccaaagctag tatcttagta ttaattatcc tctgattttt
+      601 aatcaaaaaa aaaaaaaaaa aa
+//
+
+LOCUS       EG025301                 423 bp    mRNA    linear   EST 26-SEP-2006
+DEFINITION  PMAL-aab54f11.g1 Lamprey_EST_Tissues Petromyzon marinus cDNA 5'
+            similar to ref|NP_008147.1|CYTB_10512 cytochrome b [Petromyzon
+            marinus] sp|Q35534|CYB_PETMA Cytochrome b pir|S54999
+            ubiquinol-cytochrome-c reductase (EC 1.10.2.2) cytochrome b - sea
+            lamprey mitochondrion gb|AAB08737.1| cytochrome b [Petromyzon
+            marinus], mRNA sequence.
+ACCESSION   EG025301
+VERSION     EG025301.1
+DBLINK      BioSample: SAMN00149826
+KEYWORDS    EST.
+SOURCE      Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 423)
+  AUTHORS   Wilson,R.
+  TITLE     WashU Lamprey EST project
+  JOURNAL   Unpublished
+COMMENT     Contact: Ziping Zhang
+            WashU Lamprey EST project
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: submissions@watson.wustl.edu
+            Library material provided by Department of Fisheries & Wildlife,
+            Michigan State University Library constructed by Ziping Zhang;
+            Yilei Wang; Weiming Li Library sequenced by Washington University
+            Genome Sequencing Center
+            This trace has been recalled with phred
+            original value before phred recall for SL was 148
+            original value before phred recall for SR was 631
+            Potential full insert read...vec-to-vec length: 422
+            Seq primer: -21UPpOT.
+FEATURES             Location/Qualifiers
+     source          1..423
+                     /organism="Petromyzon marinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7757"
+                     /sex="mix"
+                     /clone_lib="SAMN00149826 Lamprey_EST_Tissues"
+                     /dev_stage="Adult"
+                     /lab_host="DH10B"
+                     /note="Vector: pDNR-LIB; Site_1: Sfi I; Site_2: Sfi I"
+ORIGIN      
+        1 ggccggggtt cctaataaac ttggaggtgt tgtagcttta gcagcagcta tcataatcct
+       61 cctaattatc ccatttactc acacctccaa acaacgcgga atacaatttc gcccactcgc
+      121 ccacattaca ttttgaattt taattgccga tctagcacta cttacatgac tagggggaga
+      181 gcccgctgaa tatccattta tcttaataac acaaattgca tcaacagtct acttcataat
+      241 ttttattcta gttttcccaa ttttaggata tttagaaaat aaaatactat taatatcaaa
+      301 aaatactggt aaatttaatt gaaaattagt ttacggacct tcaaaggaag gggatttaaa
+      361 cccctataac tggcccccac agctagtatc ttagtattaa attatcctct gatttttaaa
+      421 cca
+//
+
